@@ -1,0 +1,27 @@
+"Phrases"
+{
+	"mmi_shop"
+	{
+        "en"                    "Encoded Shop"
+    }
+    "mmi_shop_desc"
+	{
+        "en"                    "open the encoded shop..."
+    }
+	"mmi_bank"
+	{
+        "en"                    "Encoded Bank"
+    }
+    "mmi_bank_desc"
+	{
+        "en"                    "open the encoded bank..."
+    }
+    "mmi_inventory"
+    {
+        "en"                    "Encoded Inventory"
+    }
+    "mmi_inventory_desc"
+	{
+        "en"                    "open the encoded inventory..."
+    }
+}

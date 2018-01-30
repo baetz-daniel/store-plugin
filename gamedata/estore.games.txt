@@ -1,0 +1,20 @@
+"Games"
+{
+	"csgo"
+    {
+        "Signatures"
+        {
+			"GetAttachment"
+			{
+				"library"	        "server"
+                "linux"		        "@_ZN14CBaseAnimating13GetAttachmentEPKcR6VectorR6QAngle"
+			}
+            "LookupAttachment"
+            {
+                "library"           "server"
+                "linux"             "@_ZN14CBaseAnimating16LookupAttachmentEPKc"
+                "windows"           "\x55\x8B\xEC\x56\x8B\xF1\x83\xBE\x2A\x2A\x2A\x2A\x00\x75\x10\xE8\x2A\x2A\x2A\x2A\x85\xC0\x74\x07\x8B\xCE\xE8\x2A\x2A\x2A\x2A\x8B\x86\x2A\x2A\x2A\x2A\x5E\x85\xC0\x74\x05\x83\x38\x00\x75\x06\x33\xC0\x5D\xC2\x04\x00\x8B\x4D\x08\x51\x50\xE8\x2A\x2A\x2A\x2A\x83\xC4\x08\x40\x5D\xC2\x04\x00"            
+            }
+        }
+    }  
+}

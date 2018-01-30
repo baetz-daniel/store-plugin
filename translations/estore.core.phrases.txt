@@ -1,0 +1,33 @@
+"Phrases"
+{
+    "plugin_info"
+    {
+        "#format"               "{1:s}"
+        "en"                    "Encoded Store [v. {1}]."
+    }
+    "welcome"
+    {
+        "#format"               "{1:s}"
+        "en"                    "Welcome {red}{1}{default}!"
+    }
+    "credits"
+    {
+        "#format"               "{1:d},{2:s}"
+        "en"                    "You have {yellow}{1} {default}{2}."
+    }
+    "credits_receive"
+    {
+        "#format"               "{1:d},{2:s}"
+        "en"                    "You received {yellow}{1} {default}{2}."
+    }
+    "credits_receive_daily"
+    {
+        "#format"               "{1:d},{2:s}"
+        "en"                    "You received a daily bonus of {yellow}{1} {default}{2}."
+    }
+    "menu_title"
+    {
+        "#format"               "{1:d},{2:s}"
+        "en"                    "Encoded Store - {1} {2}"
+    }
+}

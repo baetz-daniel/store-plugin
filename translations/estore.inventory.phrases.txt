@@ -1,0 +1,17 @@
+"Phrases"
+{
+    "inventory_currently_unavailable"
+    {
+        "en"					"Encoded Inventory is currently unavailable! Please try again later."
+    }
+    "inventory_menu_titel"
+    {
+        "#format"				"{1:d},{2:s}"
+        "en"					"Encoded Inventory - {1} {2}"
+    }
+    "inventory_category_menu_titel"
+    {
+        "#format"				"{1:s}"
+        "en"					"Encoded Inventory - {1}"
+    }
+}

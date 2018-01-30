@@ -1,0 +1,43 @@
+"Phrases"
+{
+    "cat_glowcolor"
+    {
+        "en"                    "Glow Color"
+    }
+    "cat_glowcolor_desc"
+    {
+        "en"                    "buy a new glow color..."
+    }
+    "cat_smokecolor"
+    {
+        "en"                    "Smoke Color"
+    }
+    "cat_smokecolor_desc"
+    {
+        "en"                    "buy a new smoke color..."
+    }
+    "cat_lasercolor"
+    {
+        "en"                    "Laser Color"
+    }
+    "cat_lasercolor_desc"
+    {
+        "en"                    "buy a new laser color..."
+    }
+    "cat_playermodel"
+    {
+        "en"                    "Player Model"
+    }
+    "cat_playermodel_desc"
+    {
+        "en"                    "buy a new player model..."
+    }
+    "cat_grenademodel"
+    {
+        "en"                    "Grenade Model"
+    }
+    "cat_grenademodel_desc"
+    {
+        "en"                    "buy a new grenade model..."
+    }
+}

@@ -1,0 +1,27 @@
+"Phrases"
+{
+	"shop_currently_unavailable"
+	{
+		"en"					"Encoded Shop is currently unavailable! Please try again later."
+	}
+	"shop_menu_titel"
+	{
+		"#format"				"{1:d},{2:s}"
+		"en"					"Encoded Shop - {1} {2}"
+	}
+	"shop_category_menu_titel"
+	{
+		"#format"				"{1:d},{2:s},{3:s}"
+		"en"					"{3} - {1} {2}"
+	}
+	"shop_buy_item_success"
+	{
+		"#format"				"{1:s},{2:s}"
+		"en"					"{1} - {2} bought! Use '!inv' to equip it."
+	}
+	"shop_buy_item_duplicate"
+	{
+		"#format"				"{1:s},{2:s}"
+		"en"					"{1} - {2} allready bought! Use '!inv' to equip it."
+	}
+}

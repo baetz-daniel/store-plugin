@@ -1,0 +1,11 @@
+ *******************************************************
+ * Copyright (C) 2016-2017 Daniel Bätz <baetz.daniel@gmail.com> 
+ * ALL RIGHTS RESERVED
+ * 
+ * The project 'store-plugin' can not be copied and/or distributed 
+ * without the express permission of Daniel Bätz
+ *
+ * Unauthorized copying of any file of the project 'store-plugin'
+ * or a part from any file, via any medium is strictly prohibited
+ *
+ *******************************************************

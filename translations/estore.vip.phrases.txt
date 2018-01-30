@@ -1,0 +1,102 @@
+"Phrases"
+{
+    "roll_the_dice_already_used_this_round"
+    {
+        "en"                    "You already used 'roll the dice' this round."
+    }
+    "roll_the_dice_vip_only"
+    {
+        "#format"               "{1:s}"
+        "en"                    "You can't use '{1}'... Only for VIP!"
+    }
+    "roll_the_dice_anouncement"
+    {
+        "#format"               "{1:s}"
+        "en"                    "Use '{1}' to roll the dice!"
+    }
+    "roll_the_dice_nothing"
+    {
+        "#format"               "{1:N},{2:d}"
+        "en"                    "{1} rolled the dice... diced a {2} and nothing happened!"
+    }
+    "roll_the_dice_health_increase"
+    {
+        "#format"               "{1:N},{2:d},{3:d}"
+        "en"                    "{1} rolled the dice... diced a {2} and got {3} HP!"
+    }
+    "roll_the_dice_health_decrease"
+    {
+        "#format"               "{1:N},{2:d},{3:d}"
+        "en"                    "{1} rolled the dice... diced a {2} and lost {3} HP!"
+    }
+    "roll_the_dice_sunglasses"
+    {
+        "#format"               "{1:N},{2:d}"
+        "en"                    "{1} rolled the dice... diced a {2} and got sunglasses!"
+    }
+    "roll_the_dice_movementspeed_increase"
+    {
+        "#format"               "{1:N},{2:d},{3:d}"
+        "en"                    "{1} rolled the dice... diced a {2} and got {3}%%%% movement speed!"
+    }
+    "roll_the_dice_movementspeed_decrease"
+    {
+        "#format"               "{1:N},{2:d},{3:d}"
+        "en"                    "{1} rolled the dice... diced a {2} and lost {3}%%%% movement speed!"
+    }
+    "roll_the_dice_money_increase"
+    {
+        "#format"               "{1:N},{2:d},{3:d}"
+        "en"                    "{1} rolled the dice... diced a {2} and got {3}$!"
+    }
+    "roll_the_dice_money_decrease"
+    {
+        "#format"               "{1:N},{2:d},{3:d}"
+        "en"                    "{1} rolled the dice... diced a {2} and lost {3}$!"
+    }
+    "roll_the_dice_invisible"
+    {
+        "#format"               "{1:N},{2:d},{3:d}"
+        "en"                    "{1} rolled the dice... diced a {2} and got {3}%%%% invisibility!"
+    }
+    "roll_the_dice_gravity"
+    {
+        "#format"               "{1:N},{2:d},{3:.1f}"
+        "en"                    "{1} rolled the dice... diced a {2} and got {3}x gravity!"
+    }
+    "roll_the_dice_mirror_damage"
+    {
+        "#format"               "{1:N},{2:d},{3:d}"
+        "en"                    "{1} rolled the dice... diced a {2} and got {3}%%%% mirror damage!"
+    }
+    "roll_the_dice_vampire"
+    {
+        "#format"               "{1:N},{2:d}"
+        "en"                    "{1} rolled the dice... diced a {2} and got vampire bite!"
+    }
+    "roll_the_dice_drug"
+    {
+        "#format"               "{1:N},{2:d},{3:d}"
+        "en"                    "{1} rolled the dice... diced a {2} and got drug's for {3} seconds!"
+    }
+    "roll_the_dice_burn"
+    {
+        "#format"               "{1:N},{2:d},{3:d}"
+        "en"                    "{1} rolled the dice... diced a {2} and will burn for {3} seconds!"
+    }
+    "roll_the_dice_freeze"
+    {
+        "#format"               "{1:N},{2:d},{3:d}"
+        "en"                    "{1} rolled the dice... diced a {2} and will freeze for {3} seconds!"
+    }
+    "roll_the_dice_take_item"
+    {
+        "#format"               "{1:N},{2:d},{3:s}"
+        "en"                    "{1} rolled the dice... diced a {2} and lost his {3}!"
+    }
+    "roll_the_dice_nothing_to_loose"
+    {
+        "#format"               "{1:N},{2:d}"
+        "en"                    "{1} rolled the dice... diced a {2} and has lost nothing..."
+    }
+}

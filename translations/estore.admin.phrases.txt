@@ -1,0 +1,31 @@
+"Phrases"
+{
+	"give_credits_command"
+	{
+        "en"                    "Usage: es_givecredits <#userid|name> <credits>"
+    }
+	"set_group_command"
+	{
+        "en"                    "Usage: es_setgroup <#userid|name> <groupname>"
+    }
+	"set_group_error"
+	{
+		"#format"				"{1:s}"
+        "en"                    "Error setting client to group '{1}'! Please check if the group name is spelled correctly!"
+    }
+	"set_group_error_no_change"
+	{
+		"#format"				"{1:s}"
+		"en"                    "Client is already in group '{1}'."
+	}
+	"credits_receive_from"
+	{
+		"#format"               "{1:d},{2:s},{3:s}"
+		"en"                    "You received {1} {2} from {3}."
+	}
+	"set_group"
+	{
+		"#format"				"{1:s},{2:s}"
+        "en"                    "{1} has set your group to '{2}'."
+    }
+}

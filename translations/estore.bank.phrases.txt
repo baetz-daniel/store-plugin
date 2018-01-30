@@ -1,0 +1,95 @@
+"Phrases"
+{
+    "bank_menu_titel"
+    {
+        "#format"               "{1:d}"
+        "en"                    "Encoded Bank - Balance: {1}$"
+    }
+    "bank_withdraw"
+    {
+        "en"                    "withdraw"
+    }
+    "bank_withdraw_desc"
+    {
+        "en"                    "get money from the global bank"
+    }
+    "bank_deposit"
+    {
+        "en"                    "deposit"
+    }
+    "bank_deposit_desc"
+    {
+        "en"                    "store money on the global bank"
+    }
+    "bank_transfer"
+    {
+        "en"                    "transfer"
+    }
+    "bank_transfer_desc"
+    {
+        "en"                    "transfer money a other bank account"
+    }
+    "bank_settings"
+    {
+        "en"                    "settings"
+    }
+    "bank_settings_desc"
+    {
+        "en"                    "setup your bank account"
+    }
+    "bank_top10"
+    {
+        "en"                    "top 10"
+    }
+    "bank_top10_desc"
+    {
+        "en"                    "shows the top 10 bank accounts"
+    }
+    "bank_information"
+    {
+        "en"                    "information"
+    }
+    "bank_information_desc"
+    {
+        "en"                    "show your current bank account information"
+    }
+    "bank_withdraw_message"
+    {
+        "#format"               "{1:d}"
+        "en"                    "withdrawn {1}$ from your bank account"
+    }
+    "bank_deposit_message"
+    {
+        "#format"               "{1:d}"
+        "en"                    "deposited {1}$ to your bank account"
+    }
+    "bank_transfer_message"
+    {
+        "#format"               "{1:N},{2:d}"
+        "en"                    "transferred {2}$ to {1}'s bank account"
+    }
+    "bank_transfer_receive_message"
+    {
+        "#format"               "{1:N},{2:d}"
+        "en"                    "{1} has transferred {2}$ to your bank account"
+    }
+    "bank_money_amount_menu_titel"
+    {
+        "#format"               "{1:d},{2:s}"
+        "en"                    "Select an amount to {2} - Balance: {1}$"
+    }
+    "bank_transfer_message_error"
+    {
+        "#format"               "{1:d},{2:d}"
+        "en"                    "transfer failed! Invalid transfer amount {2}$ of {1}$"
+    }
+    "bank_show_top10_menu_titel"
+    {
+        "en"                    "Encoded Bank - TOP 10"
+    }
+    "top10_info"
+    {
+        "#format"               "{1:s},{2:d}"
+        "en"                    "{1} - {2}$"
+    }
+}
